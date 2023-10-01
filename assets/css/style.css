@@ -195,6 +195,7 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+/* Amended heading attribute from h2 to h4 to correspond to HTML file */
+.footer h4 {
     font-size: 20px;
 }
