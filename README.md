@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-Visit the Horiseon Homepage by clicking this link - [Horiseon Homepage]**(https://elenimg.github.io/Horiseon-Accessibility-Refactoring/)**
+Visit the Horiseon Homepage by clicking this link - [Horiseon Homepage](https://elenimg.github.io/Horiseon-Accessibility-Refactoring/)
 
 Click any of the headers in the navigation bar at the top, as per the screenshots below, which will take you to the corresponding section of the homepage. 
 
@@ -23,4 +23,4 @@ Click any of the headers in the navigation bar at the top, as per the screenshot
 
 The following third-party asset was used to assist with this code:
 
-["Alternative text for background images"](http://www.davidmacd.com/blog/alternate-text-for-css-background-images.html#:~:text=For%20ambient%20images%20that%20are,be%20used%20for%20information%20content.) by David MacDonald
+[Alternative text for background images](http://www.davidmacd.com/blog/alternate-text-for-css-background-images.html#:~:text=For%20ambient%20images%20that%20are,be%20used%20for%20information%20content.) by David MacDonald
